@@ -1,0 +1,11 @@
+{
+    "name": "maxnnn1900/maxnnn1900",
+    "autoload": {
+        "psr-4": {
+            "Maxnnn1900\\DummyRestApiExample\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
