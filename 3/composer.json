@@ -1,0 +1,9 @@
+{
+    "name": "maxnnn1900/watermark",
+    "autoload": {
+        "psr-4": {
+            "Maxnnn1900\\Watermark\\": "src/"
+        }
+    },
+    "require": {}
+}
